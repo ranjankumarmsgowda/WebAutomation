@@ -15,7 +15,6 @@ public class AdvancedCase1 {
 		changePwdUser1();
 		deleteUsers();
 		closeBrowser();
-
 	}
 	
 	static void launchNav()
